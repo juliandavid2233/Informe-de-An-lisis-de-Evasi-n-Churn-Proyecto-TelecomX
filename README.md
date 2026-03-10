@@ -29,10 +29,10 @@ El propósito principal es analizar el comportamiento de los usuarios, procesar 
 * **Optimización de Planes:** Revisar la competitividad de los precios en los segmentos de alto consumo.
 
 ## 🚀 Cómo ejecutar este proyecto
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/telecom-churn-analysis.git`
+1. Clona el repositorio: [`git clone https://github.com/tu-usuario/telecom-churn-analysis.git`](https://github.com/juliandavid2233/Informe-de-An-lisis-de-Evasi-n-Churn-Proyecto-TelecomX/tree/main)
 2. Instala las dependencias: `pip install pandas seaborn matplotlib`
 3. Ejecuta el notebook: `jupyter notebook` o abre el archivo en **Google Colab**.
 
 ---
-**Autora:** Jessica Daniela  
+**Autora:** Julian David Escamilla Acuña
 **Rol:** Data Analyst / Data Scientist en formación
